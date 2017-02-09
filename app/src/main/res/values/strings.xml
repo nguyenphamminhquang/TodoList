@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="add_item">Add a new item</string>
+    <string name="warning_empty_name">please fill the name!</string>
+    <string name="edit_item_below">Edit item Below: </string>
+</resources>
